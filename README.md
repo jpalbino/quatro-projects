@@ -1,1 +1,1 @@
-# quatro-projects
+Quarto is an open-source scientific and technical publishing system that allows you to weave together narrative text and code to produce high-quality outputs including reports, presentations, websites, and more.
