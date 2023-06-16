@@ -1,7 +1,20 @@
 ---
 title: "Hello, Penguins!"
 author: "João Pedro Albino"
-format: html
+format:
+  html: default
+  pdf: 
+    toc: true
+    toc-depth: 2
+    toc-title: Contents
+    number-sections: true
+    colorlinks: true
+  docx: 
+    toc: true
+    toc-depth: 2
+    toc-title: Contents
+    highlight-style: github
+    number-sections: true
 editor: visual
 execute: 
   echo: true
@@ -76,4 +89,4 @@ penguins |>
 
 ## Modeling results
 
-## References
+# References

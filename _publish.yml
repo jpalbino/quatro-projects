@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c799bae9-970a-4b87-8e50-d2ff717f32c2
+      url: 'https://jpalbino.quarto.pub/welcome-to-quarto'
